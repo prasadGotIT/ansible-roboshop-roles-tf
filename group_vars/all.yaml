@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.spdevhops.shop
+REDIS_HOST: redis.spdevhops.shop
+CATALOGUE_HOST: catalogue.spdevhops.shop
+CART_HOST: cart.spdevhops.shop
+MYSQL_HOST: mysql.spdevhops.shop
+RABBITMQ_HOST: rabbitmq.spdevhops.shop
+USER_HOST: user.spdevhops.shop
+SHIPPING_HOST: shipping.spdevhops.shop
+PAYMENT_HOST: payment.spdevhops.shop
