@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.spdevhops.shop
+MONGODB_HOST: mongodb-{{ env }}.spdevhops.shop
