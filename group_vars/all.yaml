@@ -6,4 +6,4 @@ MYSQL_HOST: mysql-{{ env }}.spdevhops.shop
 RABBITMQ_HOST: rabbitmq-{{ env }}.spdevhops.shop
 USER_HOST: user.backend-alb-{{ env }}.spdevhops.shop
 SHIPPING_HOST: shipping.backend-alb-{{ env }}.spdevhops.shop
-PAYMENT_HOST: payment.bakcend-alb-{{ env }}.spdevhops.shop
+PAYMENT_HOST: payment.backend-alb-{{ env }}.spdevhops.shop
